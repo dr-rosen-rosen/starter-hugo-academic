@@ -5,7 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-
+active: false
 # Order that this section appears on the page.
 weight: 40
 
@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Associate Professor
+    company: Johns Hopkins University School of Medicine
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Baltimore, MD
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
