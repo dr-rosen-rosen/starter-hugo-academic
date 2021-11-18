@@ -25,15 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Human Factors Psychology
+    institution: University of Central Florida
+    year: 2010
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,13 +43,13 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=c_UTJMMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dr-rosen-rosen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/michael-rosen-6347938
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +65,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Human Factors Psychologist and Associate Professor in the Dept. of Anesthesiology and Critical Care Medicine at the Johns Hopkins School of Medicine. He is a principal faculty member in the Armstrong Institute for Patient Safety and Quality, Associate Director for Team Science at the Institute for Clinical and Translational Research, Interim Director of Research at the Johns Hopkins School of Medicine Simulation Center, and Co-Director of the Applied Master of Science Program in Patient Safety and Healthcare Quality at the Johns Hopkins School of Public Health. He holds joint appointments in the Schools of Public Health, and Nursing. His research has been funded by the Agency for Healthcare Research and Quality (AHRQ), NASA, and DARPA and focuses on simulation, performance measurement, teamwork and coordination, system evaluation and design for patient safety and quality. He is an associate editor at BMJ Quality and Safety, and Simulation & Gaming.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
