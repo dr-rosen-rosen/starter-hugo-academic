@@ -14,13 +14,13 @@ organizations:
   url: https://www.hopkinsmedicine.org/armstrong_institute/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include human factors, patient safetey, teams, simulation and unobtrusive measures.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human factors in complex work systems
+- Integration of quantiative and qualitative approaches
+- Simulation
 
 # Education to show in About widget
 education:
@@ -28,7 +28,12 @@ education:
   - course: PhD in Human Factors Psychology
     institution: University of Central Florida
     year: 2010
-
+  - course: MA in English
+    institution: University of Central Florida
+    year: 2004
+  - course: BS in Psychology
+    institution: University of Central Florida
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,7 +45,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Mike_Rosen_
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=c_UTJMMAAAAJ
