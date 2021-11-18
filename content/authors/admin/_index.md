@@ -59,7 +59,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mrosen44@jhmi.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -67,4 +67,4 @@ highlight_name: true
 
 I am a Human Factors Psychologist and Associate Professor in the Dept. of Anesthesiology and Critical Care Medicine at the Johns Hopkins School of Medicine. He is a principal faculty member in the Armstrong Institute for Patient Safety and Quality, Associate Director for Team Science at the Institute for Clinical and Translational Research, Interim Director of Research at the Johns Hopkins School of Medicine Simulation Center, and Co-Director of the Applied Master of Science Program in Patient Safety and Healthcare Quality at the Johns Hopkins School of Public Health. He holds joint appointments in the Schools of Public Health, and Nursing. His research has been funded by the Agency for Healthcare Research and Quality (AHRQ), NASA, and DARPA and focuses on simulation, performance measurement, teamwork and coordination, system evaluation and design for patient safety and quality. He is an associate editor at BMJ Quality and Safety, and Simulation & Gaming.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rosen_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
