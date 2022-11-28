@@ -14,12 +14,12 @@ organizations:
   url: https://www.hopkinsmedicine.org/armstrong_institute/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include human factors, patient safetey, teams, simulation and unobtrusive measures.
+bio: My interests include human factors, patient safety, teams, simulation and unobtrusive measures.
 
 # Interests to show in About widget
 interests:
 - Human factors in complex work systems
-- Integration of quantiative and qualitative approaches
+- Integration of quantitative and qualitative approaches
 - Simulation
 
 # Education to show in About widget
